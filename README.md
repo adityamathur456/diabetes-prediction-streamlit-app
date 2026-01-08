@@ -59,10 +59,16 @@ diabetes-prediction-streamlit-app/
 ```
 ---
 ## Installation Setup
-```- git clone https://github.com/adityamathur456/diabetes-prediction-streamlit-app.git cd diabetes-prediction-streamlit-app ```
+```bash
+git clone https://github.com/adityamathur456/diabetes-prediction-streamlit-app
+```
 
 ## Install dependencies
-```- pip install -r requirements.txt```
+```bash
+- pip install -r requirements.txt
+```
 
 ## Run the Application
- ```- streamlit run app/app.py```
+ ```bash
+ - streamlit run app/app.py
+```
