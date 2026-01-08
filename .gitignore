@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Streamlit
+.streamlit/
+
+# Model artifacts (optional)
+# model/artifacts/*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
